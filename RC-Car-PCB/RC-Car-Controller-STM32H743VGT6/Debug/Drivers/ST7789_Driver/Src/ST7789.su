@@ -1,0 +1,12 @@
+../Drivers/ST7789_Driver/Src/ST7789.c:79:9:ST7789_SendByte_Command	16	static
+../Drivers/ST7789_Driver/Src/ST7789.c:88:9:ST7789_SendByte_Data	16	static
+../Drivers/ST7789_Driver/Src/ST7789.c:97:9:ST7789_SendWord_Data	16	static
+../Drivers/ST7789_Driver/Src/ST7789.c:106:9:ST7789_Init	24	static
+../Drivers/ST7789_Driver/Src/ST7789.c:140:6:ST7789_SetCursor	16	static
+../Drivers/ST7789_Driver/Src/ST7789.c:157:6:ST7789_SetWindow	24	static
+../Drivers/ST7789_Driver/Src/ST7789.c:173:9:ST7789_UpdateSector	24	static
+../Drivers/ST7789_Driver/Src/ST7789.c:199:9:ST7789_UpdateAutomatic	16	static
+../Drivers/ST7789_Driver/Src/ST7789.c:210:9:ST7789_Clear	16	static
+../Drivers/ST7789_Driver/Src/ST7789.c:216:9:ST7789_Draw_NOSIG	32	static
+../Drivers/ST7789_Driver/Src/ST7789.c:247:9:ST7789_Draw_DATA	48	static
+../Drivers/ST7789_Driver/Src/ST7789.c:308:6:ST7789_DMATransmitCplt	16	static

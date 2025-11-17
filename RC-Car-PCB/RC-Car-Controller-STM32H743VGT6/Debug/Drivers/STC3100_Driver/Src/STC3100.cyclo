@@ -1,0 +1,6 @@
+../Drivers/STC3100_Driver/Src/STC3100.c:11:10:Assemble2x8_16	1
+../Drivers/STC3100_Driver/Src/STC3100.c:20:7:VoltageToCharge	3
+../Drivers/STC3100_Driver/Src/STC3100.c:28:9:STC3100_ReadRegister	3
+../Drivers/STC3100_Driver/Src/STC3100.c:40:9:STC3100_WriteRegister	2
+../Drivers/STC3100_Driver/Src/STC3100.c:49:9:STC3100_Init	3
+../Drivers/STC3100_Driver/Src/STC3100.c:61:9:STC3100_Get	4

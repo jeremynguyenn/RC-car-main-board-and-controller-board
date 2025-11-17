@@ -1,0 +1,2 @@
+../USB_DEVICE/App/usb_device.c:62:9:SendDataWithCorrection	32	static
+../USB_DEVICE/App/usb_device.c:85:6:MX_USB_DEVICE_Init	8	static

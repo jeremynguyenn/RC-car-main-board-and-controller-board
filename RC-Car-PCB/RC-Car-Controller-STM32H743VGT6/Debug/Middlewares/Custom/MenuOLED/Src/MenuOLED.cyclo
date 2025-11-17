@@ -1,0 +1,10 @@
+../Middlewares/Custom/MenuOLED/Src/MenuOLED.c:13:10:AllocateValueArr	1
+../Middlewares/Custom/MenuOLED/Src/MenuOLED.c:17:10:AllocateString	1
+../Middlewares/Custom/MenuOLED/Src/MenuOLED.c:24:11:AllocateStringArr	1
+../Middlewares/Custom/MenuOLED/Src/MenuOLED.c:28:16:AllocateProperties	1
+../Middlewares/Custom/MenuOLED/Src/MenuOLED.c:32:12:AllocatePages	1
+../Middlewares/Custom/MenuOLED/Src/MenuOLED.c:36:9:MENU_Init	5
+../Middlewares/Custom/MenuOLED/Src/MenuOLED.c:133:9:MENU_Draw	24
+../Middlewares/Custom/MenuOLED/Src/MenuOLED.c:394:6:MENU_ParseInput	10
+../Middlewares/Custom/MenuOLED/Src/MenuOLED.c:436:6:MENU_AnimateString	3
+../Middlewares/Custom/MenuOLED/Src/MenuOLED.c:446:7:Lerp	3

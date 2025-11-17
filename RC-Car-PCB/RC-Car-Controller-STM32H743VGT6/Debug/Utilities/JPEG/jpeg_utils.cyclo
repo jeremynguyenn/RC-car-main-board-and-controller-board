@@ -1,0 +1,10 @@
+../Utilities/JPEG/jpeg_utils.c:417:17:JPEG_ARGB_MCU_YCbCr420_ConvertBlocks	5
+../Utilities/JPEG/jpeg_utils.c:562:17:JPEG_ARGB_MCU_YCbCr422_ConvertBlocks	5
+../Utilities/JPEG/jpeg_utils.c:675:17:JPEG_ARGB_MCU_YCbCr444_ConvertBlocks	5
+../Utilities/JPEG/jpeg_utils.c:766:17:JPEG_ARGB_MCU_Gray_ConvertBlocks	5
+../Utilities/JPEG/jpeg_utils.c:854:17:JPEG_ARGB_MCU_YCCK_ConvertBlocks	5
+../Utilities/JPEG/jpeg_utils.c:944:19:JPEG_GetEncodeColorConvertFunc	20
+../Utilities/JPEG/jpeg_utils.c:1819:6:JPEG_InitColorTables	1
+../Utilities/JPEG/jpeg_utils.c:1839:6:JPEG_InitPreProcColorTables	2
+../Utilities/JPEG/jpeg_utils.c:1865:6:JPEG_Init_MCU_LUT	13
+../Utilities/JPEG/jpeg_utils.c:1920:17:JPEG_Set_K_Blocks	10

@@ -1,0 +1,5 @@
+../Drivers/INA229_Driver/Src/INA229.c:16:9:INA229_ReadRegister	3
+../Drivers/INA229_Driver/Src/INA229.c:45:9:INA229_WriteRegister	3
+../Drivers/INA229_Driver/Src/INA229.c:73:9:INA229_Init	1
+../Drivers/INA229_Driver/Src/INA229.c:82:10:Register24_Int32	1
+../Drivers/INA229_Driver/Src/INA229.c:92:9:INA229_Get	3

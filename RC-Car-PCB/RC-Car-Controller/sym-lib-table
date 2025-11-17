@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AT86RF215")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/AT86RF215_ZU/KiCADv6/2025-02-11_02-21-16.kicad_sym")(options "")(descr ""))
+  (lib (name "RFX2401C")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/RFX2401C/KiCADv6/2025-02-11_02-57-42.kicad_sym")(options "")(descr ""))
+  (lib (name "2450FB15A050E Balun")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/2450FB15A050E/KiCADv6/2025-02-11_03-01-25.kicad_sym")(options "")(descr ""))
+  (lib (name "INA229AQDGSRQ1")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/INA229AQDGSRQ1/KiCADv6/2025-02-11_03-42-13.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74HC244PWR")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/SN74HC244PWR/KiCADv6/2025-02-11_03-56-46.kicad_sym")(options "")(descr ""))
+  (lib (name "A6986F3V3TR")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/A6986F3V3TR/KiCADv6/2025-02-17_15-26-51.kicad_sym")(options "")(descr ""))
+  (lib (name "O_25_0_JO32_B_1V3_1_T1_LF")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/O_25_0_JO32_B_1V3_1_T1_LF/KiCADv6/2025-02-22_21-49-42.kicad_sym")(options "")(descr ""))
+  (lib (name "WSL27262L000FEB")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/WSL27262L000FEB/KiCADv6/2025-02-23_01-41-57.kicad_sym")(options "")(descr ""))
+)

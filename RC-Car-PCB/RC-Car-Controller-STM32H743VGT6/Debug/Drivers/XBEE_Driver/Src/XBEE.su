@@ -1,0 +1,4 @@
+../Drivers/XBEE_Driver/Src/XBEE.c:13:9:XBEE_Init	16	static
+../Drivers/XBEE_Driver/Src/XBEE.c:37:9:XBEE_RXPacket	32	static
+../Drivers/XBEE_Driver/Src/XBEE.c:68:9:XBEE_TXPacket	32	static
+../Drivers/XBEE_Driver/Src/XBEE.c:108:9:XBEE_RX_DMACallback	96	static

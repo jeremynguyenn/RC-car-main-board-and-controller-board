@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.7*%
+%TF.CreationDate,2025-03-30T10:37:29-04:00*%
+%TF.ProjectId,RC-Car-Controller,52432d43-6172-42d4-936f-6e74726f6c6c,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.7) date 2025-03-30 10:37:29*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X80619000Y-43000000D02*
+X219381000Y-43000000D01*
+X219381000Y-120000000D01*
+X80619000Y-120000000D01*
+X80619000Y-43000000D01*
+M02*
